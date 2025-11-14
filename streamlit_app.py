@@ -71,7 +71,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
      labels[0]: {
        "texts": ["우루과이", "골기퍼", "신의손"],
-       "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
+       "images": ["https://i.namu.wiki/i/-igH7T_rzORwxplNdDV1O712u51xRLQGUQaw3DfnZFxITvkRbSjYFKZ99-OAfsA8oE6VZvy0AyUPXikfsWq7e6IQdq-qO6LRORpGZpTu6P3-7MjbSKKmBwI9T-ctB9-qCTRIB_L-Ojfk3kqgOfoVRQ.webp", "https://.../jjampong2.jpg"],
        "videos": ["https://www.youtube.com/watch?v=aRaVvrDaBKI"]
      },
 }
