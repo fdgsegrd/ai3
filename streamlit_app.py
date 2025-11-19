@@ -79,7 +79,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
        "videos": ["https://www.youtube.com/watch?v=aDF_ESN80r8"]
      },labels[2]: {
        "texts": ["우루과이", "스트라이커", "신의손"],
-       "images": ["https://i.namu.wiki/i/-igH7T_rzORwxplNdDV1O712u51xRLQGUQaw3DfnZFxITvkRbSjYFKZ99-OAfsA8oE6VZvy0AyUPXikfsWq7e6IQdq-qO6LRORpGZpTu6P3-7MjbSKKmBwI9T-ctB9-qCTRIB_L-Ojfk3kqgOfoVRQ.webp", "https://.../jjampong2.jpg"],
+       "images": ["https://i.namu.wiki/i/k-w5kh-9hchlrWItoL1UoBwy685WhaGKHmLe54T1PJzbUGabOrmrMcEU4T3GlghlN6CD_p7gdcm4aPZfjFBipGBv798tmclEIkbolYCBsyBgqt7rjP46yN9Q6obcuwsAututQ2XHuzzQZ8zDkOB_Sg.webp"],
        "videos": ["https://www.youtube.com/watch?v=aRaVvrDaBKI"]
      }
 }
