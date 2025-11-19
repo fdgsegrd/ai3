@@ -72,11 +72,11 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
      labels[0]: {
        "texts": ["브라질", "윙", "산투스 FC"],
        "images": ["https://i.namu.wiki/i/WDZUUIvaHiuP2YyeR8OXCPunQcpl3qQYhrmGfLQ2VvOwPc9tqJPDTwaEyGpY2qADNoAYTgDNjpcVPZ3OOK5SxCVCZcYFs-E0gLgBTnLUJ2R3flq5xdQJsYip10vTZjqtOlxcjlYjT7UtsmjI5UCkLg.webp"],
-       "videos": ["https://www.youtube.com/watch?v=aRaVvrDaBKI"]
+       "videos": ["https://www.youtube.com/watch?v=3F99FGqYlYg"]
      }, labels[1]: {
        "texts": ["포르투갈", "날강두", "멘유"],
-       "images": ["https://i.namu.wiki/i/-igH7T_rzORwxplNdDV1O712u51xRLQGUQaw3DfnZFxITvkRbSjYFKZ99-OAfsA8oE6VZvy0AyUPXikfsWq7e6IQdq-qO6LRORpGZpTu6P3-7MjbSKKmBwI9T-ctB9-qCTRIB_L-Ojfk3kqgOfoVRQ.webp", "https://.../jjampong2.jpg"],
-       "videos": ["https://www.youtube.com/watch?v=aRaVvrDaBKI"]
+       "images": ["https://i.namu.wiki/i/5-AZefq-h9QRuzhX2jU_27vKmpZFlrvLRgrBtl3NGk08AV7lUuggOJk2F2cSQwaFYNAPfAdczpRl484a4dPeLxhvRKgh6-zRfxpFyrvdYLimMUnqhQCNo9uhxt6srt8KZcjrw-O2fhI-i8x3sTC_ew.webp"],
+       "videos": ["https://www.youtube.com/watch?v=aDF_ESN80r8"]
      },labels[2]: {
        "texts": ["우루과이", "스트라이커", "신의손"],
        "images": ["https://i.namu.wiki/i/-igH7T_rzORwxplNdDV1O712u51xRLQGUQaw3DfnZFxITvkRbSjYFKZ99-OAfsA8oE6VZvy0AyUPXikfsWq7e6IQdq-qO6LRORpGZpTu6P3-7MjbSKKmBwI9T-ctB9-qCTRIB_L-Ojfk3kqgOfoVRQ.webp", "https://.../jjampong2.jpg"],
